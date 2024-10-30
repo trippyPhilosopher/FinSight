@@ -4,12 +4,11 @@
 This project is about creating an expense-tracking app for Android, aimed at helping users gain better insights into their finances. The app features expense tracking, forecasting using a random forest regression model, and analytics charts to support informed decision-making.
 
 ## Key Features
-- **Expense Tracking**: Log and categorize expenses for better financial management.
-- **Forecasting**: Utilizes a random forest regression model for accurate financial predictions.
-- **Analytics Charts**: Visualizes data to aid in financial decision-making.
+- **Expense Tracking**: Log and categorise expenses for better financial management.
+- **Forecasting**: Utilises a random forest regression model for accurate financial predictions.
+- **Analytics Charts**: Visualises data to aid in financial decision-making.
 - **Import CSV Files**: Easily import expense data from CSV files for quick setup.
 - **Local Data Storage**: Built using Isar for efficient data management.
-- **Prototyping Method**: Includes user interviews, competitor analysis, and initial wireframing.
 
 ## Development
 The app was developed using:
@@ -23,7 +22,7 @@ The app was developed using:
 
 ## Challenges Faced
 - Slow response times with large datasets.
-- Performance optimization issues.
+- Performance optimisation issues.
 - Need for preprocessing CSV datasets before use.
 
 ## Testing
@@ -32,7 +31,7 @@ The app underwent thorough testing to evaluate its functionality, performance, a
 - User feedback mechanisms.
 
 ## Impact
-This project significantly contributes to mobile app development, financial technology, and data analytics by emphasizing:
+This project contributes to mobile app development, financial technology, and data analytics by emphasising:
 - Local data storage.
 - Clear data visualisation.
 - Enhanced user engagement.
