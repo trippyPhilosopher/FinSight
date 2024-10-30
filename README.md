@@ -35,3 +35,16 @@ This project contributes to mobile app development, financial technology, and da
 - Local data storage.
 - Clear data visualisation.
 - Enhanced user engagement.
+
+## Installation
+Run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/trippyPhilosopher/Expense-Tracker.git
+   cd Expense-Tracker
+   flutter pub get
+   flutter run
+  ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
