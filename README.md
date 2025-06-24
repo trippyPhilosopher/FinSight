@@ -22,7 +22,7 @@ A personal finance tracker built with Flutter. This app lets you log expenses, v
 ## Installation
 Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/trippyPhilosopher/Expense-Tracker.git
+   git clone https://github.com/trippyPhilosopher/FinSight
    cd Expense-Tracker
    flutter pub get
    flutter run
